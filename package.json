@@ -1,5 +1,8 @@
 {
-  "name": "mylib",
+  "name": "@paddyodebiyi/mylib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/paddyodebiyi"
+  },
   "version": "0.0.1",
   "description": "A React Component Library",
   "license": "ISC",
